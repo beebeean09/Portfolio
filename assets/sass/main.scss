@@ -233,7 +233,7 @@
 		border: 0;
 
 		&:after {
-			content: '';
+			// content: '';
 			position: absolute;
 			left: 0;
 			top: 0;
@@ -634,8 +634,9 @@
 	.feature-icon {
 		display: inline-block;
 		position: relative;
-		padding-bottom: 5em;
-		margin-bottom: 2.75em;
+		// padding-bottom: 5em;
+		margin-bottom: 1.75em;
+		// margin-bottom: 2.75em;
 		cursor: default;
 
 		.icon {
@@ -649,29 +650,29 @@
 			line-height: 2.1em;
 		}
 
-		&:before {
-			content: '';
-			background: #666;
-			position: absolute;
-			bottom: 0;
-			left: 50%;
-			margin-left: -0.325em;
-			width: 0.65em;
-			height: 0.65em;
-			display: block;
-			border-radius: 100%;
-		}
-
-		&:after {
-			content: '';
-			position: absolute;
-			left: 50%;
-			bottom: 0.65em;
-			width: 1px;
-			height: 4.35em;
-			background: #666;
-			margin-left: -0.5px;
-		}
+		// &:before {
+		// 	content: '';
+		// 	background: #666;
+		// 	position: absolute;
+		// 	bottom: 0;
+		// 	left: 50%;
+		// 	margin-left: -0.325em;
+		// 	width: 0.65em;
+		// 	height: 0.65em;
+		// 	display: block;
+		// 	border-radius: 100%;
+		// }
+		//
+		// &:after {
+		// 	content: '';
+		// 	position: absolute;
+		// 	left: 50%;
+		// 	bottom: 0.65em;
+		// 	width: 1px;
+		// 	height: 4.35em;
+		// 	background: #666;
+		// 	margin-left: -0.5px;
+		// }
 	}
 
 	.dark {
