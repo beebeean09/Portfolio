@@ -1855,6 +1855,7 @@
 		color: #fff;
 		text-align: center;
 		text-decoration: none;
+		margin: 0 1em;
 	}
 
 		input[type="button"]:hover,
@@ -2074,11 +2075,11 @@
 			}
 
 			.main > .content.style2 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #4c2f2d, #d4857f, #e8ffce);
+				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #89c73b, #5f8e41, #266329);
 			}
 
 			.main > .content.style3 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #5f796b, #3a4e59, #2f394e);
+				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #4c2f2d, #d4857f, #e8ffce);
 			}
 
 			.main > .content.style4 {
