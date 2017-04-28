@@ -241,7 +241,8 @@
 	}
 
 	.row {
-		margin: -50px 0 -1px -50px;
+		margin-top: 12%;
+		/*margin: -50px 0 -1px -50px;*/
 	}
 
 	.row.uniform > * {
@@ -1350,7 +1351,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #666;
-		margin: 0 0 1em 0;
+		margin: 0 0 0.5em 0;
 		font-weight: 100;
 		line-height: 1.5em;
 	}
