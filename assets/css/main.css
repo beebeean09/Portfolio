@@ -241,8 +241,8 @@
 	}
 
 	.row {
-		margin-top: 12%;
-		/*margin: -50px 0 -1px -50px;*/
+		/*margin-top: 12%;*/
+		margin: -50px 0 -1px -50px;
 	}
 
 	.row.uniform > * {
@@ -342,6 +342,7 @@
 	}
 
 	.\38 u, .\38 u\24 {
+		/*width: 33.3333333333%;*/
 		width: 66.6666666667%;
 		clear: none;
 		margin-left: 0;
@@ -354,7 +355,7 @@
 	}
 
 	.\36 u, .\36 u\24 {
-		width: 50%;
+		width: 100%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -367,6 +368,7 @@
 
 	.\34 u, .\34 u\24 {
 		width: 33.3333333333%;
+		/*width: 66.6666666667%;*/
 		clear: none;
 		margin-left: 0;
 	}
@@ -2068,11 +2070,11 @@
 			}
 
 			.main > .content.style1 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #8cff50, #71a252, #347136);
+				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #bed4a3, #6db53f, #306532);
 			}
 
 			.main > .content.style2 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #384955, #655361, #85505f);
+				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #4c2f2d, #d4857f, #e8ffce);
 			}
 
 			.main > .content.style3 {
