@@ -2021,7 +2021,7 @@
 
 		#header header p {
 			/*margin-top: 1.25em;*/
-			font-weight: 100;
+			font-weight: bolder;
 			padding: 0;
 			font-size: 1.25em;
 			line-height: 1.5em;
@@ -2118,7 +2118,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 15pt;
+				font-size: 16pt;
 				line-height: 1.75em;
 			}
 
