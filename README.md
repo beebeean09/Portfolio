@@ -1,5 +1,5 @@
 # WELCOME TO MY PORTFOLIO
 
-[Portfolio](http://www.vivianlee.life/)
+[Want to know more about me?](http://www.vivianlee.life/)
 
-![gif]('./images/vlhome.png')
+![gif](./images/vlhome.png)
